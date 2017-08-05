@@ -1,6 +1,6 @@
 {
     "name": "requirejs-dot",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "This plugins loads dot-templates with require-text during development, and has the capabilities to build dependency free optimized versions with r.js",
     "main": "doT.js",
     "scripts": {
