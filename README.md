@@ -38,12 +38,17 @@ Installation & Dependencies
   - [doT][] 
   - [require-text][]
 
-Install with [bower][] to get them all. You can also manually 
+Install with [bower][] or [npm][] to get them all. You can also manually 
 download `doT.js` or clone this repository and get the dependencies in whatever way you 
 see fit.
 
 ```
 bower install requirejs-doT
+```
+or 
+
+```
+npm install requirejs-dot
 ```
 
 In your [paths](http://requirejs.org/docs/api.html#config-paths) setup the mappings 
@@ -140,3 +145,4 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [doT]: http://olado.github.com/doT/
 [require-text]: https://github.com/requirejs/text
 [bower]: http://twitter.github.com/bower/
+[npm]: https://www.npmjs.com
